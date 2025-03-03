@@ -1,0 +1,23 @@
+id,pasaporte,nombre,ap_paterno,ap_materno,fecha_nacimiento,nacionalidad,raza,telefono,correo
+1,A1,Dany,Mendez,Ramirez,03/02/25,Mediaterrano,Elfo,1,1
+2,A2,David,Conchis,Nose,03/01/25,Narniano,Elfo,2,2
+3,B1,Da,j,j,03/02/25,Ozniano,Duende,1,1
+4,B2,j,j,j,03/02/25,Narniano,Orco,2,a
+5,C1,4,4,a,03/02/25,Narniano,Mago/Bruja,1,1
+6,1,1,1,1,03/02/25,Narniano,Orco,1,1
+7,q,a,a,a,03/02/25,Narniano,Orco,1,q
+8,5,a,a,a,03/02/25,Narniano,Orco,1,q
+9,a,a,a,a,03/02/25,Ozniano,Fauno,1,1
+10,4,4,4,4,03/02/25,Mediaterrano,Elfo,2,2
+11,A,1,1,1,03/02/25,Narniano,Fauno,1,1
+12,l,l,l,l,03/02/25,Narniano,Orco,1,1
+13,s,s,s,s,03/02/25,Narniano,Enano,1,1
+14,G1,j,j,j,03/02/25,Narniano,Duende,5,5
+15,012345678,j,j,j,03/02/25,Narniano,Mago/Bruja,5539500411,danym2407@gmail.com
+16,123456789,D,a,a,03/02/25,Narniano,Elfo,1234567890,ala@hotmail.com
+17,567891011,luis,po,p,03/02/25,Mediaterrano,Elfo,7894561234,a@gmail.com
+18,456789012,Saul,Perez,Gonzales,03/02/25,Narniano,Centauro,9874563214,saul@gmail.com
+19,987654723,Lopez,Perez,Lopez,03/02/25,Narniano,Duende,55478948596,duende@hotmail.com
+20,098765432,Wilfrido,Gomez,Arias,03/02/25,Narniano,Humano,1234567890,danym2407@gmail.com
+21,456789111,e,e,e,03/02/25,Mediaterrano,Humano,7896542389,hola@hotmail.com
+22,345678902,Q,q,q,03/02/25,Narniano,Mono Alado,0987654678,se@gmail.com

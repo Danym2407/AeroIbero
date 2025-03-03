@@ -1,0 +1,3 @@
+vuelo_id,origen,destino,fecha,ruta,distancia_total,tiempo_total,costo_total,capacidad,ocupacion
+1,La Comarca,Narnia,03/03/25,"La Comarca,Rivendel,Telmar,Narnia",2000.0,8.0,6800.0,30,22
+2,La Comarca,Narnia,03/03/25,"Erebor,Gondor",1250.0,3.0,3525.0,20,2
